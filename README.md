@@ -8,7 +8,7 @@
 
  <hr>
 <h4>
-Full Stack Web Application similar to financial software that is used in professional banking institutions. Customized.
+Full Stack Web Application similar to financial software that is used in professional banking institutions. 
 </h4>
 
 </div>
